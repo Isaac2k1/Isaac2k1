@@ -9,8 +9,11 @@ Sir Isaac Newton is famous for his contributions to the classical physic, especi
   ** raspberry pies
 * chocolate cherries
 
+<<<<<<< HEAD
 Isaac Newton said once:
 
 > Der Apfel fällt
 > nicht weit vom Stamm.
 
+=======
+>>>>>>> fae666d6663d7f7f5318a76fc136b590df7d306b
