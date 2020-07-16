@@ -13,4 +13,3 @@ Isaac Newton said once:
 
 > Der Apfel fällt
 > nicht weit vom Stamm.
-
